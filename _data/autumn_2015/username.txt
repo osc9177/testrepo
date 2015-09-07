@@ -1,4 +1,0 @@
-{
-  "e-mail": "120wer@naver.com",
-  "introduction : I`m still hungry
-}
